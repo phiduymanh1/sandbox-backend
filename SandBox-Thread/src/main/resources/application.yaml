@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SandBox-Thread
+  mvc:
+    async:
+      request-timeout: 8000
